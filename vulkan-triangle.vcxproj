@@ -135,6 +135,9 @@
     <None Include=".gitmodules" />
     <None Include="LICENSE" />
     <None Include="README.md" />
+    <None Include="resources\shaders\compile.bat" />
+    <None Include="resources\shaders\triangle.frag" />
+    <None Include="resources\shaders\triangle.vert" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
